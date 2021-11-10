@@ -1,0 +1,18 @@
+body{
+    background-color: green;
+    text-align: center;
+}
+
+input{
+    background-color: red;
+    border-radius: 5px;
+    border: 2px ridge blue;
+    width: 100px;
+}
+
+div{
+    border: 4px solid blue;
+    background-color: brown;
+    width: 500px;
+    margin-left: 360px;
+}
